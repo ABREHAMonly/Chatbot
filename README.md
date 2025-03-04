@@ -26,7 +26,7 @@ To get started with the healthcare support AI chatbot, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/ABREHAMonly/Chatbot.git
 Navigate to the project directory:
 
 bash
